@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">My Debts</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="someone_oves_me">Someone oves me</string>
+    <string name="my_debts">My Debts</string>
+    <string name="main">Main</string>
+    <string name="today_s_debts">Today\'s Debts</string>
+    <string name="i_am_the_debtor">I am the debtor</string>
+    <string name="creditor_name">Creditor name</string>
+    <string name="return_until">Return until:</string>
+    <string name="sum">Sum</string>
+    <string name="save">Save</string>
+    <string name="until">Until Today</string>
+    <string name="until_date">Until %1$s</string>
+    <string name="rub">%1$d %2$s</string>
+
+    <string-array name="currencys">
+        <item>Currency</item>
+        <item>RUB</item>
+        <item>USD</item>
+        <item>EUR</item>
+        <item>NZD</item>
+    </string-array>
+
+</resources>
